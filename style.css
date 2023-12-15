@@ -6,7 +6,7 @@
 .mainbkg{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(51, 51, 51, 0.75)),url(images/BKGS.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(51, 51, 51, 0.75)),url(images/BKSH.png);
     background-size: cover;
     background-position: center;
 }
