@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-bar-area",
-      "name": "BAR AREA",
+      "id": "0-bar-view",
+      "name": "BAR VIEW",
       "levels": [
         {
           "tileSize": 256,
@@ -30,40 +30,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.7569496195472194,
-          "pitch": 0.15498491432502348,
+          "yaw": 1.7595922189910844,
+          "pitch": 0.1672565817947902,
           "rotation": 0,
           "target": "7-view-2"
         },
         {
-          "yaw": 2.4033871888754534,
-          "pitch": 0.1387609307214639,
+          "yaw": 2.418514005084411,
+          "pitch": 0.12057891142716315,
           "rotation": 0,
           "target": "8-vip"
         },
         {
-          "yaw": 1.1399441716634762,
-          "pitch": -0.07968079590193611,
+          "yaw": -2.163191456963535,
+          "pitch": 0.20213779773452245,
           "rotation": 0,
-          "target": "2-exterior-view-1"
+          "target": "1-entrance-side-view"
         },
         {
-          "yaw": 0.924460531344323,
-          "pitch": -0.02952429266911949,
+          "yaw": 0.9624641320726344,
+          "pitch": -0.048135881083196,
           "rotation": 0,
           "target": "5-male-bathroom"
         },
         {
-          "yaw": -2.1018603483177802,
-          "pitch": 0.3850053383827188,
+          "yaw": 1.3094143328604453,
+          "pitch": -0.04540552496307981,
           "rotation": 0,
-          "target": "6-view-1"
-        },
-        {
-          "yaw": -2.2184903333309016,
-          "pitch": 0.17747899581445736,
-          "rotation": 0,
-          "target": "1-entrance-side-view"
+          "target": "2-exterior-view-1"
         }
       ],
       "infoHotspots": []
@@ -98,40 +92,40 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.2536359725391222,
-          "pitch": -0.05980845788210232,
-          "rotation": 0,
-          "target": "0-bar-area"
-        },
-        {
-          "yaw": 0.1143795503955154,
-          "pitch": 0.10785723145255233,
+          "yaw": 0.09959560823601166,
+          "pitch": 0.09910492406305771,
           "rotation": 0,
           "target": "6-view-1"
         },
         {
-          "yaw": 0.12309248333793477,
-          "pitch": -0.08457571229383021,
+          "yaw": 0.024421568603543164,
+          "pitch": -0.05544090899058496,
           "rotation": 0,
-          "target": "5-male-bathroom"
+          "target": "0-bar-view"
         },
         {
-          "yaw": 0.41605602981719514,
-          "pitch": -0.07797829456158922,
-          "rotation": 0,
-          "target": "2-exterior-view-1"
-        },
-        {
-          "yaw": 0.621249570574447,
-          "pitch": 0.028735309159596767,
+          "yaw": 0.6103788050135925,
+          "pitch": 0.04364279693382933,
           "rotation": 0,
           "target": "7-view-2"
         },
         {
-          "yaw": 0.931230301171567,
-          "pitch": 0.037994842588771505,
+          "yaw": 0.9309199243048916,
+          "pitch": 0.0238615802239881,
           "rotation": 0,
           "target": "8-vip"
+        },
+        {
+          "yaw": 0.15203753429832645,
+          "pitch": -0.11581239911809682,
+          "rotation": 0,
+          "target": "5-male-bathroom"
+        },
+        {
+          "yaw": 0.42350072941844097,
+          "pitch": -0.06469040407467119,
+          "rotation": 0,
+          "target": "2-exterior-view-1"
         }
       ],
       "infoHotspots": []
@@ -166,16 +160,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.1375717419640896,
-          "pitch": 0.09020735798322832,
+          "yaw": 0.11715198550778716,
+          "pitch": 0.138053332033806,
           "rotation": 0,
           "target": "3-exterior-view-2"
         },
         {
-          "yaw": -1.8350768210507233,
-          "pitch": -0.00109158771487472,
+          "yaw": -2.1533956056469172,
+          "pitch": -0.033720335437262605,
           "rotation": 0,
-          "target": "0-bar-area"
+          "target": "0-bar-view"
         }
       ],
       "infoHotspots": []
@@ -210,16 +204,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.17493345311649833,
-          "pitch": 0.09255745132662874,
+          "yaw": 0.34138214968324476,
+          "pitch": -0.05017625849276186,
           "rotation": 0,
-          "target": "2-exterior-view-1"
+          "target": "0-bar-view"
         },
         {
-          "yaw": 0.31867065240559533,
-          "pitch": 0.01678257181913878,
+          "yaw": -0.18011425559863525,
+          "pitch": 0.13033604703922208,
           "rotation": 0,
-          "target": "0-bar-area"
+          "target": "2-exterior-view-1"
         }
       ],
       "infoHotspots": []
@@ -254,16 +248,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.2225143718441505,
-          "pitch": -0.08048029897124742,
-          "rotation": 0,
-          "target": "0-bar-area"
-        },
-        {
-          "yaw": -1.2229982125238887,
-          "pitch": 0.02787172297576035,
+          "yaw": -1.2115860257166648,
+          "pitch": 0.07292902526090472,
           "rotation": 0,
           "target": "5-male-bathroom"
+        },
+        {
+          "yaw": -1.205518393869749,
+          "pitch": -0.09882282821228827,
+          "rotation": 0,
+          "target": "0-bar-view"
         }
       ],
       "infoHotspots": []
@@ -298,14 +292,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.0581817300994878,
-          "pitch": -0.1045708677981505,
+          "yaw": 1.0000371598208737,
+          "pitch": -0.10998676844452149,
           "rotation": 0,
-          "target": "0-bar-area"
+          "target": "0-bar-view"
         },
         {
-          "yaw": 1.0480126758861452,
-          "pitch": 0.09810326495184363,
+          "yaw": 0.995740810828984,
+          "pitch": 0.028741367647874938,
           "rotation": 0,
           "target": "4-female-bathroom"
         }
@@ -342,38 +336,38 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8519932286124767,
-          "pitch": 0.0038793396917373713,
+          "yaw": -0.5152323161358119,
+          "pitch": 0.030906873638969046,
           "rotation": 0,
-          "target": "8-vip"
+          "target": "0-bar-view"
         },
         {
-          "yaw": 0.3528032229540088,
-          "pitch": 0.030397257270770695,
+          "yaw": 0.33400657259449495,
+          "pitch": 0.0467895561490117,
           "rotation": 0,
           "target": "7-view-2"
         },
         {
-          "yaw": -0.2618987091910885,
-          "pitch": -0.11612905431629805,
+          "yaw": -0.28669707513809506,
+          "pitch": -0.08795922894995734,
           "rotation": 0,
           "target": "5-male-bathroom"
         },
         {
-          "yaw": 0.05003452215733262,
-          "pitch": -0.0734172595160203,
+          "yaw": 0.04701261352944108,
+          "pitch": -0.03994903477032885,
           "rotation": 0,
           "target": "2-exterior-view-1"
         },
         {
-          "yaw": -0.4966825975526721,
-          "pitch": -0.018126165655427684,
+          "yaw": 0.8778599392520654,
+          "pitch": 0.060269127694128954,
           "rotation": 0,
-          "target": "0-bar-area"
+          "target": "8-vip"
         },
         {
-          "yaw": 2.9926315424001313,
-          "pitch": 0.17302205073796983,
+          "yaw": 3.001894041492288,
+          "pitch": 0.24152158635035903,
           "rotation": 0,
           "target": "1-entrance-side-view"
         }
@@ -410,38 +404,38 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0,
-          "pitch": 0.0088367639241973,
+          "yaw": 0.2830836319312251,
+          "pitch": 0.01066056463277576,
+          "rotation": 0,
+          "target": "0-bar-view"
+        },
+        {
+          "yaw": -0.008882106461244987,
+          "pitch": 0.03773038628900949,
           "rotation": 0,
           "target": "6-view-1"
         },
         {
-          "yaw": 0.30800771635865054,
-          "pitch": 0.008420916597957628,
-          "rotation": 0,
-          "target": "0-bar-area"
-        },
-        {
-          "yaw": -0.1976895854446532,
-          "pitch": 0.014440456647591304,
+          "yaw": -0.16718865370975067,
+          "pitch": 0.050318620337566955,
           "rotation": 0,
           "target": "1-entrance-side-view"
         },
         {
-          "yaw": -0.9113152898742385,
-          "pitch": 0.09126079165716305,
+          "yaw": -0.938593195244918,
+          "pitch": 0.09767396166314413,
           "rotation": 0,
           "target": "8-vip"
         },
         {
-          "yaw": 1.1479712370955557,
-          "pitch": -0.14709164816182607,
+          "yaw": 1.1962155537532997,
+          "pitch": -0.11483530852218848,
           "rotation": 0,
           "target": "5-male-bathroom"
         },
         {
-          "yaw": 2.201170768180969,
-          "pitch": -0.09936193732774967,
+          "yaw": 2.095762214141807,
+          "pitch": -0.05373885140760848,
           "rotation": 0,
           "target": "2-exterior-view-1"
         }
@@ -478,40 +472,40 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.4783228906695864,
-          "pitch": 0.16874644385735849,
+          "yaw": -2.4678601957478605,
+          "pitch": 0.1862648518244594,
           "rotation": 0,
           "target": "7-view-2"
         },
         {
-          "yaw": -2.500859519455865,
-          "pitch": -0.03199929976415028,
-          "rotation": 0,
-          "target": "2-exterior-view-1"
-        },
-        {
-          "yaw": -3.0234607987781565,
-          "pitch": -0.022160459206226335,
-          "rotation": 0,
-          "target": "5-male-bathroom"
-        },
-        {
-          "yaw": 2.077437591203603,
-          "pitch": 0.10819249594370284,
+          "yaw": 2.0615405421443764,
+          "pitch": 0.09427492991421538,
           "rotation": 0,
           "target": "6-view-1"
         },
         {
-          "yaw": 2.4793891083647432,
-          "pitch": 0.02827745443905272,
+          "yaw": 2.412026518078232,
+          "pitch": 0.0243645665915615,
           "rotation": 0,
-          "target": "0-bar-area"
+          "target": "0-bar-view"
         },
         {
-          "yaw": 1.799022810734309,
-          "pitch": 0.08002078144843239,
+          "yaw": 1.7863494529051103,
+          "pitch": 0.07426442081581541,
           "rotation": 0,
           "target": "1-entrance-side-view"
+        },
+        {
+          "yaw": -3.0263517963368436,
+          "pitch": -0.02437710561256523,
+          "rotation": 0,
+          "target": "5-male-bathroom"
+        },
+        {
+          "yaw": -2.492572605697326,
+          "pitch": -0.0052043204538794186,
+          "rotation": 0,
+          "target": "2-exterior-view-1"
         }
       ],
       "infoHotspots": []
@@ -521,7 +515,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
